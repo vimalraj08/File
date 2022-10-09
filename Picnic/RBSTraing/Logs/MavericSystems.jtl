@@ -1,0 +1,25 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1650626895820,326,JSR223 Sampler,200,OK,MavericSystems 1-1,text,true,,0,0,1,1,null,0,0,0
+1650626896238,3000,4 /,200,OK,MavericSystems 1-1,text,true,,755850,449,1,1,https://maveric-systems.com/,2166,0,1977
+1650626899264,423,124 /wp-content/uploads/2019/05/Sprite_Sheet-2.svg,200,OK,MavericSystems 1-1,bin,true,,3839,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/05/Sprite_Sheet-2.svg,423,0,283
+1650626899691,113,152 /wp-content/uploads/2019/04/title-after-bg.svg,200,OK,MavericSystems 1-1,bin,true,,893,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/04/title-after-bg.svg,113,0,0
+1650626899828,83,153 /wp-content/uploads/2019/06/popup-close-btn.svg,200,OK,MavericSystems 1-1,bin,true,,889,427,1,1,https://maveric-systems.com/wp-content/uploads/2019/06/popup-close-btn.svg,83,0,0
+1650626899914,2952,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,200,OK,MavericSystems 1-1,bin,true,,61390,875,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,1735,0,0
+1650626899914,1735,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-0,301,Moved Permanently,MavericSystems 1-1,text,true,,477,439,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,1735,0,0
+1650626901652,1214,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-1,200,OK,MavericSystems 1-1,bin,true,,60913,436,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,516,0,416
+1650626896171,6571,Launch Page,200,"Number of samples in transaction : 5, number of failing samples : 0",MavericSystems 1-1,,true,,822861,2603,1,1,null,4520,127,2260
+1650626902870,3890,301 /quality-engineering/,200,OK,MavericSystems 1-1,text,true,,826487,515,1,1,https://maveric-systems.com/quality-engineering/,400,0,0
+1650626902870,3890,Quality Engineering Page,200,"Number of samples in transaction : 1, number of failing samples : 0",MavericSystems 1-1,,true,,826487,515,1,1,null,400,4,0
+1650626906772,2,Debug Sampler,200,OK,MavericSystems 1-1,text,true,,1077,0,1,1,null,0,0,0
+1650626906775,1,JSR223 Sampler,200,OK,MavericSystems 1-1,text,true,,0,0,1,1,null,0,0,0
+1650626906778,979,4 /,200,OK,MavericSystems 1-1,text,true,,755850,449,1,1,https://maveric-systems.com/,441,0,277
+1650626907763,83,124 /wp-content/uploads/2019/05/Sprite_Sheet-2.svg,200,OK,MavericSystems 1-1,bin,true,,3838,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/05/Sprite_Sheet-2.svg,82,0,0
+1650626907849,85,152 /wp-content/uploads/2019/04/title-after-bg.svg,200,OK,MavericSystems 1-1,bin,true,,893,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/04/title-after-bg.svg,85,0,0
+1650626907936,90,153 /wp-content/uploads/2019/06/popup-close-btn.svg,200,OK,MavericSystems 1-1,bin,true,,889,427,1,1,https://maveric-systems.com/wp-content/uploads/2019/06/popup-close-btn.svg,89,0,0
+1650626908031,2319,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,200,OK,MavericSystems 1-1,bin,true,,61390,875,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,1379,0,0
+1650626908031,1379,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-0,301,Moved Permanently,MavericSystems 1-1,text,true,,477,439,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,1379,0,0
+1650626909410,940,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-1,200,OK,MavericSystems 1-1,bin,true,,60913,436,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,473,0,367
+1650626906777,3556,Launch Page,200,"Number of samples in transaction : 5, number of failing samples : 0",MavericSystems 1-1,,true,,822860,2603,1,1,null,2076,23,277
+1650626910357,3276,301 /quality-engineering/,200,OK,MavericSystems 1-1,text,true,,826487,515,1,1,https://maveric-systems.com/quality-engineering/,181,0,0
+1650626910356,3276,Quality Engineering Page,200,"Number of samples in transaction : 1, number of failing samples : 0",MavericSystems 1-1,,true,,826487,515,1,1,null,181,4,0
+1650626913639,0,Debug Sampler,200,OK,MavericSystems 1-1,text,true,,1076,0,1,1,null,0,0,0

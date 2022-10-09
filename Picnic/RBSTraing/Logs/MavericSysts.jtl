@@ -1,0 +1,23 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1651671833798,225,JSR223 Sampler,200,OK,MavericSystems 1-1,text,true,,0,0,1,1,null,0,0,0
+1651671834077,1709,4 /,200,OK,MavericSystems 1-1,text,true,,132009,449,1,1,https://maveric-systems.com/,1420,0,1238
+1651671835801,84,124 /wp-content/uploads/2019/05/Sprite_Sheet-2.svg,200,OK,MavericSystems 1-1,bin,true,,3838,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/05/Sprite_Sheet-2.svg,84,0,0
+1651671835887,81,152 /wp-content/uploads/2019/04/title-after-bg.svg,200,OK,MavericSystems 1-1,bin,true,,893,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/04/title-after-bg.svg,80,0,0
+1651671835969,81,153 /wp-content/uploads/2019/06/popup-close-btn.svg,200,OK,MavericSystems 1-1,bin,true,,889,427,1,1,https://maveric-systems.com/wp-content/uploads/2019/06/popup-close-btn.svg,81,0,0
+1651671836051,2828,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,200,OK,MavericSystems 1-1,bin,true,,61390,875,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,1467,0,0
+1651671836051,1467,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-0,301,Moved Permanently,MavericSystems 1-1,text,true,,477,439,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,1467,0,0
+1651671837527,1352,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-1,200,OK,MavericSystems 1-1,bin,true,,60913,436,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,598,0,502
+1651671834029,4783,Launch Page,200,"Number of samples in transaction : 5, number of failing samples : 0",MavericSystems 1-1,,true,,199019,2603,1,1,null,3132,69,1238
+1651671838881,2359,301 /quality-engineering/,200,OK,MavericSystems 1-1,text,true,,147006,515,1,1,https://maveric-systems.com/quality-engineering/,397,0,0
+1651671838881,2359,Quality Engineering Page,200,"Number of samples in transaction : 1, number of failing samples : 0",MavericSystems 1-1,,true,,147006,515,1,1,null,397,3,0
+1651671841245,1,JSR223 Sampler,200,OK,MavericSystems 1-1,text,true,,0,0,1,1,null,0,0,0
+1651671841247,827,4 /,200,OK,MavericSystems 1-1,text,true,,132009,449,1,1,https://maveric-systems.com/,517,0,328
+1651671842080,117,124 /wp-content/uploads/2019/05/Sprite_Sheet-2.svg,200,OK,MavericSystems 1-1,bin,true,,3838,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/05/Sprite_Sheet-2.svg,117,0,0
+1651671842198,115,152 /wp-content/uploads/2019/04/title-after-bg.svg,200,OK,MavericSystems 1-1,bin,true,,893,426,1,1,https://maveric-systems.com/wp-content/uploads/2019/04/title-after-bg.svg,115,0,0
+1651671842314,85,153 /wp-content/uploads/2019/06/popup-close-btn.svg,200,OK,MavericSystems 1-1,bin,true,,889,427,1,1,https://maveric-systems.com/wp-content/uploads/2019/06/popup-close-btn.svg,85,0,0
+1651671842400,1878,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,200,OK,MavericSystems 1-1,bin,true,,61390,875,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,1302,0,0
+1651671842400,1302,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-0,301,Moved Permanently,MavericSystems 1-1,text,true,,477,439,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg%22,1302,0,0
+1651671843702,576,146 /wp-content/uploads/2021/08/wealth-management-home-1.jpg%22-1,200,OK,MavericSystems 1-1,bin,true,,60913,436,1,1,https://maveric-systems.com/wp-content/uploads/2021/08/wealth-management-home-1.jpg,383,0,288
+1651671841246,3022,Launch Page,200,"Number of samples in transaction : 5, number of failing samples : 0",MavericSystems 1-1,,true,,199019,2603,1,1,null,2136,11,328
+1651671844279,353,301 /quality-engineering/,200,OK,MavericSystems 1-1,text,true,,147006,515,1,1,https://maveric-systems.com/quality-engineering/,175,0,0
+1651671844279,353,Quality Engineering Page,200,"Number of samples in transaction : 1, number of failing samples : 0",MavericSystems 1-1,,true,,147006,515,1,1,null,175,1,0
